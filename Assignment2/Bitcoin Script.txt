@@ -1,0 +1,8 @@
+Stack
+<14>
+<7>
+
+Script
+OP_DUP
+OP_ADD
+OP_EQUAL
