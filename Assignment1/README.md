@@ -1,7 +1,7 @@
 # Assignment 01 - Bitcoin Transaction
 
 Name    : Tanitoluwa Adebowale  
-Email   : tadebowale@utexas.edu 
+Email   : tadebowale@utexas.edu <br>
 Discord : tadebowale3  
 
 ## Transaction Sumamry
