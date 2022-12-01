@@ -6,8 +6,6 @@ Discord : tadebowale3
 
 ## Program Inputs
 
-The input of the script should be two hex-encoded strings of hash preimages, which have been verified to digest into an identical SHA1 hash (thereby demonstrating a hash collision).
-
 ```python
 <196>
 <14>
