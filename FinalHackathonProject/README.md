@@ -3,8 +3,11 @@
 This project is created by Bibartan Jha, Ahmad Ahbab & Tanitoluwa Adebowale. This project is the game Brick Breaker with a twist! Every time a new game is started, we run a query on the mempool API. This query tells us the most recent transaction on the Bitcoin Blockchain. We use values on this transaction to determine different attributes of the game, such as ball speed.
 
 ## How to setup and use demo
-- Have Python 3 installed
-- Execute `python code/game.py` 
+- Have Python 3 and Pip installed
+- Execute `cd code` 
+- Execute `source venv/bin/activate` on Unix or `venv\Scripts\activate.bat` on Windows
+- Execute `pip install -r requirements.txt`  
+- Execute `python3 game.py` 
 - Press `space` to start playing
 
 ## Resources Used
